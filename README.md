@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<button onclick="openGame()">Play Fullscreen</button>
+<button onclick="openGame()">Open iFrame</button>
 <script>
 function openGame() {
 var win = window.open()
